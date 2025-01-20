@@ -1,3 +1,8 @@
+#  Tshepiso Tlhong
+
+Welcome to my github portfolio, I am a Full-Stack Software Engineer
+
+Studied ot ALX 
 - 👋 Hi, I’m Tshepiso Junior Tlhong
 - 👀 I’m interested in Software Engineering and Rugby 
 - 🌱 I’m currently learning at ALX-Software Egineering course
