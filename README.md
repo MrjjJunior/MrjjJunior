@@ -4,7 +4,7 @@ I am a Full-Stack Software Engineer and an ALX Software Engineering graduate, pa
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/tshepisojunior.tlhong) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tshepiso-tlhong/) 
 
-Feel free to reach out on any of my socials or my email [tlhongtshepiso2@gmail.com](tlhongtshepiso2@gmail.com) 
+Feel free to reach out on any of my socials or my email [tlhongtshepiso2@gmail.com](mailto:tlhongtshepiso2@gmail.com) 
 
 # 💻 Tech Stack:
 
