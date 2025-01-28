@@ -23,6 +23,13 @@ Full-Stack Software engineer.<br>ALX SE graduate.<br>
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
 
+# Projects
+Compare Banks
+[![Screenshot 2025-01-18 221436](https://github.com/user-attachments/assets/3c83cebb-a036-425a-a0e0-7785b80d59b4)
+](https://compare-banks.onrender.com/)
+
+A Bank comparison application that helps users make informed decision on their banking needs
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=MrjjJunior&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MrjjJunior&theme=dark&hide_border=false)<br/>
