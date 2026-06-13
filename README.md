@@ -1,8 +1,7 @@
 # 💫 About Me:
 I am a Full-Stack Software Engineer and an ALX Software Engineering graduate, passionate about building scalable, user-friendly applications. With a strong foundation in both front-end and back-end development, I thrive on solving complex problems and delivering high-quality solutions.
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/tshepisojunior.tlhong) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tshepiso-tlhong/) 
+## 🌐 Socials: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tshepiso-tlhong/) 
 
 Feel free to reach out on any of my socials or [📧 Email Me](https://mail.google.com/mail/?view=cm&fs=1&to=tlhongtshepiso2@gmail.com&su=Hello%20from%20GitHub&body=Hi) 
 
