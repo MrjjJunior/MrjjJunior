@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Tshepiso Tlhong:
 I am a Full-Stack Software Engineer and an ALX Software Engineering graduate, passionate about building scalable, user-friendly applications. With a strong foundation in both front-end and back-end development, I thrive on solving complex problems and delivering high-quality solutions.
 
 ## 🌐 Socials: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tshepiso-tlhong/) 
