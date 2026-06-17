@@ -1,5 +1,9 @@
-# Tshepiso Tlhong:
-I am a Full-Stack Software Engineer and an ALX Software Engineering graduate, passionate about building scalable, user-friendly applications. With a strong foundation in both front-end and back-end development, I thrive on solving complex problems and delivering high-quality solutions.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=5002&pause=1000&color=2FBB05&background=86C2DC00&vCenter=true&width=435&lines=Tshepiso+Tlhong)](https://git.io/typing-svg)
+
+[![wakatime](https://wakatime.com/badge/user/9137bc74-c5eb-46c1-aee7-edefbe62afef.svg)](https://wakatime.com/@9137bc74-c5eb-46c1-aee7-edefbe62afef)
+
+I am a Full-Stack Software Engineer, an ALX Software Engineering graduate and WeThinkCode Final year student.
+Back-end developer.
 
 ## 🌐 Socials: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tshepiso-tlhong/) 
 
@@ -32,7 +36,7 @@ A Bank comparison application that helps users make informed decision on their b
 click photo  or [here](https://compare-banks-frontend.onrender.com/) to go to the site
 
 # 📊 GitHub Stats:
-<a href="https://wakatime.com/@9137bc74-c5eb-46c1-aee7-edefbe62afef"><img src="https://wakatime.com/badge/user/9137bc74-c5eb-46c1-aee7-edefbe62afef.svg" alt="Total time coded since May 7 2026" /></a><br/>
+[![wakatime](https://wakatime.com/badge/user/9137bc74-c5eb-46c1-aee7-edefbe62afef.svg)](https://wakatime.com/@9137bc74-c5eb-46c1-aee7-edefbe62afef)
 
 ![](https://github-readme-stats.vercel.app/api?username=MrjjJunior&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MrjjJunior&theme=dark&hide_border=false)<br/>
