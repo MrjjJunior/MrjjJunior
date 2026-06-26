@@ -58,7 +58,9 @@ click photo  or [here](https://compare-banks-frontend.onrender.com/) to go to th
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-tlhongtshepiso2@gmail.com 
+## Contact me
+Email: tlhongtshepiso2@gmail.com
+Alt email: tstlhjhb025@student.wethinkcode.co.za
 
 
 
